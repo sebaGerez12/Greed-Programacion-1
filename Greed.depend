@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1731182210 source:c:\users\sebag\onedrive\documents\programaci”n utn\greed\juegodadosgreed. (1).cpp
+	"Funciones h Greed.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"rlutil.h"
+
+1731172811 c:\users\sebag\onedrive\documents\programaci”n utn\greed\funciones h greed.h
+
+1731174362 source:c:\users\sebag\onedrive\documents\programaci”n utn\greed\funciones cpp greed.cpp
+	<iostream>
+	"Funciones h Greed.h"
+	"rlutil.h"
+
+1571584339 c:\users\sebag\onedrive\documents\programaci”n utn\greed\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
